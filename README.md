@@ -2,14 +2,14 @@
 
 This project is a deep learning-based sentiment analysis system developed as part of an Artificial Intelligence module. It uses a dual-input LSTM model to classify Twitter data based on tweet content and keyword entities.
 
-## 📌 Features
+## Features
 
 - Dual-input LSTM architecture (text + keyword entity)
 - Preprocessing with tokenization and padding
 - Trained on labeled Twitter sentiment data
 - Achieved 93% test accuracy
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python
 - TensorFlow / Keras
